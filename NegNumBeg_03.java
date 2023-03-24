@@ -35,3 +35,7 @@ public class NegNumBeg_03 {
     }
 
 }
+
+
+/*Time Complexity: O(n*log(n)), Where n is the length of the given array.
+Auxiliary Space: O(n) */
